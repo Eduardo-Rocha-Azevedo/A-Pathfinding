@@ -1,2 +1,2 @@
 # A-Pathfinding
-my readme
+Algoritimo A*
