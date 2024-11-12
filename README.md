@@ -1,2 +1,2 @@
 # A-Pathfinding
-Algoritimo A*
+Algoritimo A* Estudo
