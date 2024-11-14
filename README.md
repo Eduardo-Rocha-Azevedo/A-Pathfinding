@@ -1,4 +1,4 @@
-# A* Pathfinding Visualization
+# A* Pathfinding Documentação
 
 Este projeto implementa uma visualização do algoritmo A* (A-Star) para encontrar o caminho mais curto em uma grade. Ele utiliza componentes gráficos do Java Swing para criar uma interface interativa onde o usuário pode definir pontos de início, objetivo e obstáculos. Este README contém uma documentação detalhada de cada classe para facilitar a compreensão e a manutenção do código.
 
